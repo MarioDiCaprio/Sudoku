@@ -27,4 +27,4 @@ you can run the GUI implementation of this project (gui.py):
 
 In order to run this project, you need to install all packages in
 'requirements.txt':
-- pip install -r requirements.py
+- pip install -r requirements.txt
